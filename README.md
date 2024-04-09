@@ -18,9 +18,9 @@ Our project objective is to analyze product sales trends through profit analysis
 
 **Softwares Required**
 
-PowerBI Desktop
-MySQL version 8.0.32 (Make sure you install the same version connector)
-.NET Framework
+- PowerBI Desktop
+- MySQL version 8.0.32 (Make sure you install the same version connector)
+- .NET Framework
 
 
 **Key Insights Gained**
