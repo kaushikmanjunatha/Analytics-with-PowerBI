@@ -23,8 +23,6 @@ Our project objective is to analyze product sales trends through profit analysis
 - .NET Framework
 
 
-**Key Insights Gained**
-
 
 **Dashboards**
 Key Insights
